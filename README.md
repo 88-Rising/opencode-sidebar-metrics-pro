@@ -38,7 +38,7 @@ Display notes: labels use the native text color, values are muted; `In` counts `
 
 ## Install
 
-> npm package pending — not published yet. Use method A once live, method B for now.
+> npm publishing is on hold (registry signup is unreachable from here). Use method B for now; method A once the package is live.
 
 A — npm (primary, once published):
 
@@ -142,7 +142,7 @@ Last 37.1 tokens/s · 3.3s · 12s
 
 ## 安装
 
-> npm 包即将发布，暂未上线。发布后用方法 A，当前用方法 B。
+> npm 发布暂搁置（当前网络无法完成 registry 注册）。当前用方法 B，发布后用方法 A。
 
 A —— npm（发布后为主方式）：
 
